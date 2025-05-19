@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Psychology PhD candidate researching human-technology interaction, with a focus on how people perceive and engage with AI systems. My research explores factors influencing AI attitudes, including how anthropomorphic features affect trust and responsibility attribution. I also study social media dynamics, particularly emotional responses to Twitter usage.
+I'm a Psychology PhD candidate researching human-technology interaction, with a focus on how people perceive and engage with AI systems. My research explores factors influencing attitudes towards AI, including moralization of AI and how anthropomorphic features affect trust and responsibility attribution. I also study social media dynamics, particularly emotional responses to Twitter usage.
 
-Beyond academia, I serve as a researcher/engineer at Augmend Health, a startup developing VR-AI technology for chronic pain assessment and treatment. I define capabilities for our LLM models, select implementation methods, and apply them to our systems. I also design data collection protocols and analyze results from our clinical pilot studies.
+Beyond academia, I serve as a researcher scientist at Augmend Health, a startup developing VR-AI technology for chronic pain assessment and treatment. At Augmend Health, I develop the core LLM technology for our VR chronic pain assessment platform. I create data collection protocols for clinical pilots, analyze patient results, and refine our AI models based on findings. I work with clinical partners and advisors to ensure our technology delivers meaningful therapeutic outcomes.
 
 Outside work, I enjoy ballet (as both audience and practitioner), tennis, cooking, and travel. I like to unwind with manual crafts like crochet and embroidery, usually alongside podcasts or TV. I love bonding over books, essays, and films—you can see what I'm reading and watching on [Goodreads](https://www.goodreads.com/user/show/70413033-victoria-oldemburgo-de-mello), [Substack](https://substack.com/@vicotira?utm_source=user-menu), and [Letterboxd](https://letterboxd.com/vicomello/).
