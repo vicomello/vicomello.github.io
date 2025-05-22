@@ -200,7 +200,7 @@ exclude:
   - _news # removed by VIC from original template
   - _includes/news.liquid # removed by VIC from original template
   - _pages/profiles.md # removed by VIC from original template
-  - _pages/repositories.md
+  - _pages/repositories.md # removed by VIC from original template
 
 keep_files:
   - CNAME
